@@ -1,0 +1,1213 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<marker_set href="" name="Membrane_Gap_Markers">
+  <marker id="0">
+    <point>322.260 322.260 296.060</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="1">
+    <point>322.260 322.260 374.660</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="2">
+    <point>324.880 322.260 293.440</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="3">
+    <point>324.880 322.260 377.280</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="4">
+    <point>327.500 322.260 290.820</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="5">
+    <point>327.500 322.260 379.900</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="6">
+    <point>330.120 322.260 276.410</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="7">
+    <point>330.120 322.260 394.310</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="8">
+    <point>332.740 322.260 273.790</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="9">
+    <point>332.740 322.260 396.930</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="10">
+    <point>335.360 322.260 234.490</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="11">
+    <point>335.360 322.260 436.230</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="12">
+    <point>337.980 322.260 234.490</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="13">
+    <point>337.980 322.260 436.230</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="14">
+    <point>340.600 322.260 241.040</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="15">
+    <point>340.600 322.260 429.680</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="16">
+    <point>343.220 322.260 275.100</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="17">
+    <point>343.220 322.260 395.620</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="18">
+    <point>345.840 322.260 275.100</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="19">
+    <point>345.840 322.260 395.620</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="20">
+    <point>348.460 322.260 275.100</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="21">
+    <point>348.460 322.260 395.620</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="22">
+    <point>322.260 324.880 301.300</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="23">
+    <point>322.260 324.880 369.420</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="24">
+    <point>324.880 324.880 296.060</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="25">
+    <point>324.880 324.880 374.660</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="26">
+    <point>327.500 324.880 294.750</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="27">
+    <point>327.500 324.880 375.970</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="28">
+    <point>330.120 324.880 289.510</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="29">
+    <point>330.120 324.880 381.210</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="30">
+    <point>332.740 324.880 276.410</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="31">
+    <point>332.740 324.880 394.310</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="32">
+    <point>335.360 324.880 275.100</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="33">
+    <point>335.360 324.880 395.620</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="34">
+    <point>337.980 324.880 235.800</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="35">
+    <point>337.980 324.880 434.920</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="36">
+    <point>340.600 324.880 258.070</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="37">
+    <point>340.600 324.880 412.650</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="38">
+    <point>343.220 324.880 272.480</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="39">
+    <point>343.220 324.880 398.240</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="40">
+    <point>345.840 324.880 272.480</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="41">
+    <point>345.840 324.880 398.240</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="42">
+    <point>348.460 324.880 273.790</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="43">
+    <point>348.460 324.880 396.930</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="44">
+    <point>322.260 327.500 310.470</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="45">
+    <point>322.260 327.500 360.250</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="46">
+    <point>324.880 327.500 307.850</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="47">
+    <point>324.880 327.500 362.870</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="48">
+    <point>327.500 327.500 296.060</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="49">
+    <point>327.500 327.500 374.660</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="50">
+    <point>330.120 327.500 293.440</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="51">
+    <point>330.120 327.500 377.280</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="52">
+    <point>332.740 327.500 288.200</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="53">
+    <point>332.740 327.500 382.520</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="54">
+    <point>335.360 327.500 280.340</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="55">
+    <point>335.360 327.500 390.380</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="56">
+    <point>337.980 327.500 243.660</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="57">
+    <point>337.980 327.500 427.060</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="58">
+    <point>340.600 327.500 272.480</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="59">
+    <point>340.600 327.500 398.240</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="60">
+    <point>343.220 327.500 271.170</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="61">
+    <point>343.220 327.500 399.550</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="62">
+    <point>345.840 327.500 271.170</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="63">
+    <point>345.840 327.500 399.550</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="64">
+    <point>348.460 327.500 271.170</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="65">
+    <point>348.460 327.500 399.550</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="66">
+    <point>322.260 330.120 311.780</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="67">
+    <point>322.260 330.120 358.940</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="68">
+    <point>324.880 330.120 311.780</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="69">
+    <point>324.880 330.120 358.940</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="70">
+    <point>327.500 330.120 310.470</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="71">
+    <point>327.500 330.120 360.250</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="72">
+    <point>330.120 330.120 294.750</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="73">
+    <point>330.120 330.120 375.970</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="74">
+    <point>332.740 330.120 292.130</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="75">
+    <point>332.740 330.120 378.590</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="76">
+    <point>335.360 330.120 302.610</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="77">
+    <point>335.360 330.120 368.110</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="78">
+    <point>337.980 330.120 273.790</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="79">
+    <point>337.980 330.120 396.930</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="80">
+    <point>340.600 330.120 273.790</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="81">
+    <point>340.600 330.120 396.930</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="82">
+    <point>343.220 330.120 271.170</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="83">
+    <point>343.220 330.120 399.550</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="84">
+    <point>345.840 330.120 269.860</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="85">
+    <point>345.840 330.120 400.860</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="86">
+    <point>348.460 330.120 269.860</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="87">
+    <point>348.460 330.120 400.860</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="88">
+    <point>322.260 332.740 315.710</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="89">
+    <point>322.260 332.740 355.010</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="90">
+    <point>324.880 332.740 314.400</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="91">
+    <point>324.880 332.740 356.320</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="92">
+    <point>327.500 332.740 315.710</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="93">
+    <point>327.500 332.740 355.010</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="94">
+    <point>330.120 332.740 315.710</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="95">
+    <point>330.120 332.740 355.010</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="96">
+    <point>332.740 332.740 319.640</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="97">
+    <point>332.740 332.740 351.080</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="98">
+    <point>335.360 332.740 320.950</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="99">
+    <point>335.360 332.740 349.770</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="100">
+    <point>337.980 332.740 275.100</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="101">
+    <point>337.980 332.740 395.620</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="102">
+    <point>340.600 332.740 272.480</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="103">
+    <point>340.600 332.740 398.240</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="104">
+    <point>343.220 332.740 271.170</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="105">
+    <point>343.220 332.740 399.550</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="106">
+    <point>345.840 332.740 269.860</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="107">
+    <point>345.840 332.740 400.860</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="108">
+    <point>348.460 332.740 269.860</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="109">
+    <point>348.460 332.740 400.860</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="110">
+    <point>322.260 335.360 315.710</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="111">
+    <point>322.260 335.360 355.010</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="112">
+    <point>324.880 335.360 315.710</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="113">
+    <point>324.880 335.360 355.010</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="114">
+    <point>327.500 335.360 318.330</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="115">
+    <point>327.500 335.360 352.390</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="116">
+    <point>330.120 335.360 318.330</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="117">
+    <point>330.120 335.360 352.390</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="118">
+    <point>332.740 335.360 320.950</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="119">
+    <point>332.740 335.360 349.770</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="120">
+    <point>335.360 335.360 320.950</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="121">
+    <point>335.360 335.360 349.770</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="122">
+    <point>337.980 335.360 275.100</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="123">
+    <point>337.980 335.360 395.620</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="124">
+    <point>340.600 335.360 272.480</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="125">
+    <point>340.600 335.360 398.240</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="126">
+    <point>343.220 335.360 271.170</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="127">
+    <point>343.220 335.360 399.550</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="128">
+    <point>345.840 335.360 269.860</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="129">
+    <point>345.840 335.360 400.860</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="130">
+    <point>348.460 335.360 269.860</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="131">
+    <point>348.460 335.360 400.860</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="132">
+    <point>322.260 337.980 317.020</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="133">
+    <point>322.260 337.980 353.700</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="134">
+    <point>324.880 337.980 317.020</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="135">
+    <point>324.880 337.980 353.700</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="136">
+    <point>327.500 337.980 318.330</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="137">
+    <point>327.500 337.980 352.390</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="138">
+    <point>330.120 337.980 320.950</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="139">
+    <point>330.120 337.980 349.770</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="140">
+    <point>332.740 337.980 322.260</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="141">
+    <point>332.740 337.980 348.460</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="142">
+    <point>335.360 337.980 322.260</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="143">
+    <point>335.360 337.980 348.460</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="144">
+    <point>337.980 337.980 320.950</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="145">
+    <point>337.980 337.980 349.770</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="146">
+    <point>340.600 337.980 273.790</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="147">
+    <point>340.600 337.980 396.930</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="148">
+    <point>343.220 337.980 271.170</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="149">
+    <point>343.220 337.980 399.550</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="150">
+    <point>345.840 337.980 269.860</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="151">
+    <point>345.840 337.980 400.860</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="152">
+    <point>348.460 337.980 294.750</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="153">
+    <point>348.460 337.980 375.970</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="154">
+    <point>322.260 340.600 317.020</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="155">
+    <point>322.260 340.600 353.700</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="156">
+    <point>324.880 340.600 318.330</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="157">
+    <point>324.880 340.600 352.390</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="158">
+    <point>327.500 340.600 319.640</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="159">
+    <point>327.500 340.600 351.080</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="160">
+    <point>330.120 340.600 322.260</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="161">
+    <point>330.120 340.600 348.460</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="162">
+    <point>332.740 340.600 322.260</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="163">
+    <point>332.740 340.600 348.460</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="164">
+    <point>335.360 340.600 323.570</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="165">
+    <point>335.360 340.600 347.150</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="166">
+    <point>337.980 340.600 320.950</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="167">
+    <point>337.980 340.600 349.770</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="168">
+    <point>340.600 340.600 273.790</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="169">
+    <point>340.600 340.600 396.930</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="170">
+    <point>343.220 340.600 271.170</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="171">
+    <point>343.220 340.600 399.550</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="172">
+    <point>345.840 340.600 297.370</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="173">
+    <point>345.840 340.600 373.350</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="174">
+    <point>348.460 340.600 296.060</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="175">
+    <point>348.460 340.600 374.660</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="176">
+    <point>322.260 343.220 317.020</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="177">
+    <point>322.260 343.220 353.700</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="178">
+    <point>324.880 343.220 318.330</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="179">
+    <point>324.880 343.220 352.390</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="180">
+    <point>327.500 343.220 319.640</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="181">
+    <point>327.500 343.220 351.080</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="182">
+    <point>330.120 343.220 322.260</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="183">
+    <point>330.120 343.220 348.460</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="184">
+    <point>332.740 343.220 322.260</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="185">
+    <point>332.740 343.220 348.460</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="186">
+    <point>335.360 343.220 322.260</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="187">
+    <point>335.360 343.220 348.460</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="188">
+    <point>337.980 343.220 322.260</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="189">
+    <point>337.980 343.220 348.460</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="190">
+    <point>340.600 343.220 272.480</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="191">
+    <point>340.600 343.220 398.240</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="192">
+    <point>343.220 343.220 271.170</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="193">
+    <point>343.220 343.220 399.550</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="194">
+    <point>345.840 343.220 297.370</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="195">
+    <point>345.840 343.220 373.350</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="196">
+    <point>348.460 343.220 296.060</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="197">
+    <point>348.460 343.220 374.660</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="198">
+    <point>322.260 345.840 317.020</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="199">
+    <point>322.260 345.840 353.700</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="200">
+    <point>324.880 345.840 318.330</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="201">
+    <point>324.880 345.840 352.390</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="202">
+    <point>327.500 345.840 319.640</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="203">
+    <point>327.500 345.840 351.080</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="204">
+    <point>330.120 345.840 320.950</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="205">
+    <point>330.120 345.840 349.770</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="206">
+    <point>332.740 345.840 322.260</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="207">
+    <point>332.740 345.840 348.460</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="208">
+    <point>335.360 345.840 322.260</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="209">
+    <point>335.360 345.840 348.460</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="210">
+    <point>337.980 345.840 320.950</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="211">
+    <point>337.980 345.840 349.770</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="212">
+    <point>340.600 345.840 272.480</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="213">
+    <point>340.600 345.840 398.240</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="214">
+    <point>343.220 345.840 272.480</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="215">
+    <point>343.220 345.840 398.240</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="216">
+    <point>345.840 345.840 298.680</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="217">
+    <point>345.840 345.840 372.040</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="218">
+    <point>348.460 345.840 296.060</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="219">
+    <point>348.460 345.840 374.660</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="220">
+    <point>322.260 348.460 317.020</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="221">
+    <point>322.260 348.460 353.700</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="222">
+    <point>324.880 348.460 318.330</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="223">
+    <point>324.880 348.460 352.390</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="224">
+    <point>327.500 348.460 318.330</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="225">
+    <point>327.500 348.460 352.390</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="226">
+    <point>330.120 348.460 319.640</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="227">
+    <point>330.120 348.460 351.080</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="228">
+    <point>332.740 348.460 320.950</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="229">
+    <point>332.740 348.460 349.770</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="230">
+    <point>335.360 348.460 322.260</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="231">
+    <point>335.360 348.460 348.460</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="232">
+    <point>337.980 348.460 320.950</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="233">
+    <point>337.980 348.460 349.770</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="234">
+    <point>340.600 348.460 273.790</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="235">
+    <point>340.600 348.460 396.930</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="236">
+    <point>343.220 348.460 297.370</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="237">
+    <point>343.220 348.460 373.350</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="238">
+    <point>345.840 348.460 298.680</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="239">
+    <point>345.840 348.460 372.040</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="240">
+    <point>348.460 348.460 297.370</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  <marker id="241">
+    <point>348.460 348.460 373.350</point>
+    <radius>10.0</radius>
+    <color>1.0 0.0 0.0</color>
+    </marker>
+  </marker_set>
